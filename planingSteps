@@ -1,0 +1,32 @@
+My recommendation: before moving to design or architecture, create a much more comprehensive Program Planning & Governance Manual (50–100 pages) covering:
+
+Detailed hospital workflow discovery methodology
+Department-by-department process inventories
+Nursing workflow framework
+Physician workflow framework
+Laboratory operations framework
+Pharmacy operations framework
+Imaging workflow framework
+National data governance model
+EHR functional requirements catalog
+FHIR implementation framework
+Public health data lake strategy
+Security and privacy framework
+National rollout strategy
+Budgeting and staffing models
+Clinical governance structure
+Change management program
+User adoption strategy
+Training curriculum
+Vendor evaluation framework
+Risk register and mitigation plans
+
+That document would be suitable for presentation to:
+
+Ministry of Public Health
+Hospital executives
+Investors
+Donor organizations
+Technical partners
+
+and could become the master blueprint for the entire Cameroon EHR initiative.Provide your feedback on BizChat
